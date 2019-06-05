@@ -1,3 +1,6 @@
+Line to see the case when there is a conflict (Line1)
 I am writting this line to learn two things:
 a) How to create a new branch
 b) How to merge two files
+
+
